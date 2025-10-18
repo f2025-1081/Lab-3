@@ -1,0 +1,21 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "* *" << endl;
+    cout << "** **" << endl;
+    cout << "*** ***" << endl;
+    cout << "**** ****" << endl;
+    cout << "***** *****" << endl;
+
+    string name = "Zainab Arham";
+    int age = 20;
+    string citycountry = "Pakistan, Lahore";
+
+    cout << "My name is " << name << ", and i am " << age << " years old." << endl;
+    cout << "I am from " << citycountry << "." << endl;
+
+
+
+
+    return 0;
